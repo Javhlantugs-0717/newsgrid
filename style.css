@@ -216,7 +216,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #showcase:before {
    content: '';
-   background: url('/NewsGrid_Website/img/featured.jpg') no-repeat center/cover;
+   background: url('featured.jpg') no-repeat center/cover;
    position: absolute;
    top: 0;
    left: 0;
